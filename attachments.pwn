@@ -7,7 +7,7 @@
 //
 // SA-MP 0.3e and above
 //
-// Released with 0.3e RC server package, 3/5/12
+// Released with 0.3e server package
 //
 //-------------------------------------------------
 
